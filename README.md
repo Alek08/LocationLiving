@@ -2,5 +2,5 @@
 
 
 
-![](images/singup.jpg | width=100)<br />
+![](images/singup.jpg s=200)<br />
 
