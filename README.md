@@ -2,5 +2,5 @@
 
 
 
-![](images/singup.jpg=250x250)<br />
+![](images/singup.jpg =250x250)<br />
 
