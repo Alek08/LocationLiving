@@ -1,7 +1,7 @@
 # LocationLiving
 
 
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/singup.jpg" width="48">
 
-![smiley](images/singup.jpg){:height="36px" width="36px"}.
 <br />
 
