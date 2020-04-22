@@ -2,6 +2,6 @@
 
 
 
-![](images/singup.jpg){:height="50%" width="50%"}
+![smiley](images/singup.jpg){:height="36px" width="36px"}.
 <br />
 
