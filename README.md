@@ -27,3 +27,17 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/mainFragemnt.jpg" width="400" height="690">
 
 <br />
+
+
+<b>Cluster Click</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/clusterclick.jpg" width="400" height="690">
+<br />
+Доколку се кликне на кластерот од пријатели се покажуваат сите пријатели во тој кластер, со селектирање на еден од нив ќе се доближите до пријателот.
+
+
+
+
+
+
+
