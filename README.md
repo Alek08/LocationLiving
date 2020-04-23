@@ -144,12 +144,13 @@
 <b>Add new friend</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/sendfollowreuest.jpg" width="400" height="690">
+<br />
 Со Add new friend може да испратите барање за следење на некој корисник.Со внесување на username на корисникот.
 <br />
-
 <b>Follow requests</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/sendfollowreuest.jpg" width="400" height="690">
+<br />
 Во Follow requests може да ги видите барањата за следење дополнително при секое испраќање на барање за следење корисникот добива Нотификација.
 
 <br />
@@ -160,7 +161,7 @@
 Со сите корисници кој сте ги додале како пријатели и го имаат прифатено вашето барање може да имате Chat комуникација.
  
  <br />
-<b>Conversation/b>
+<b>Conversation</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/conversation.jpg" width="400" height="690">
 
