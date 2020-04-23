@@ -21,6 +21,10 @@
 <br />
 
 
+<b>Navigation Side-Menu</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenu.jpg" width="400" height="690">
+<br />
 
 <b>Main Screen</b>
 <br />
@@ -29,24 +33,27 @@
 <br />
 
 
-<b>Navigation Side-Menu</b>
-<br />
-<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenu.jpg" width="400" height="690">
-
-<br />
-
-
-
-
 <b>Cluster Click</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/clusterclick.jpg" width="400" height="690">
 <br />
 Доколку се кликне на кластерот од пријатели се покажуваат сите пријатели во тој кластер, со селектирање на еден од нив ќе се доближите до пријателот.
 
+<b>Friend Click</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick.jpg" width="400" height="690">
+<br />
+Доколку е Avaliable корисникот
 
-
-
-
+<b>Friend Click</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick1.jpg" width="400" height="690">
+<br />
+Доколку е Busy корисникот
+<b>Friend Click</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick2.jpg" width="400" height="690">
+<br />
+Доколку е Busy корисникот
 
 
