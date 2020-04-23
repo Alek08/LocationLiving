@@ -19,3 +19,11 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/singin.jpg" width="400" height="690">
 
 <br />
+
+
+
+<b>Main Screen</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/mainFragemnt.jpg" width="400" height="690">
+
+<br />
