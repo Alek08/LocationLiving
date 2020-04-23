@@ -168,7 +168,7 @@
 
  
  <br />
-<b>CloseBy Friend/b>
+<b>CloseBy Friend</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/closeByFriends.jpg" width="400" height="690">
  <br />
@@ -176,14 +176,14 @@
  
  
   <br />
-<b>CloseBy Friend Notifications/b>
+<b>CloseBy Friend Notifications</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/notificationclosevyfriend.jpg" width="400" height="690">
  
  
 
   <br />
-<b>CloseBy Friend Notifications/b>
+<b>CloseBy Friend Notifications</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/notificationclosevyfriend.jpg" width="400" height="690">
  
