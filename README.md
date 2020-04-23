@@ -51,6 +51,22 @@
 
 
 
+<b>Unavaliable User</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/unavaliable.jpg" width="400" height="690">
+<br />
+Доколку корисникот е Unavaliable рамката на сликата ќе има сива боја дополнително ќе се појави и син маркер доколку последната локација добиена од GPS провајдерот е во опсегот на црвениот круг со тоа е поголема веројаноста корисникот да биде околу тој син маркер.
+<br />
+<b>Blue Marker</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/busycell1.jpg" width="400" height="690">
+
+
+
+images/unavaliablecell.jpg
+
+
+images/unavaliablecell1.jpg
 
 
 
