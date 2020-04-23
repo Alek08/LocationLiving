@@ -29,6 +29,17 @@
 <br />
 
 
+<b>Search on Main Screen</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/searchmain.jpg" width="400" height="690">
+<br />
+
+<b>Click on suggestion</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/searchmain1.jpg" width="400" height="690">
+<br />
+
+
 <b>Avaliable User</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/avaliable.jpg" width="400" height="690">
