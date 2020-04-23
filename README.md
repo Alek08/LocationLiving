@@ -33,12 +33,14 @@
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/searchmain.jpg" width="400" height="690">
 <br />
+Можно е пребарување на пријателите.
 
 <b>Click on suggestion</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/searchmain1.jpg" width="400" height="690">
 <br />
-
+ со селектирање на еден од нив ќе се доближите до пријателот.
+<br />
 
 <b>Avaliable User</b>
 <br />
