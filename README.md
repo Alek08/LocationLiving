@@ -153,13 +153,14 @@
 Во Follow requests може да ги видите барањата за следење дополнително при секое испраќање на барање за следење корисникот добива Нотификација.
 
 <br />
-<b>Chat/b>
+<b>Chat</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/chat.jpg" width="400" height="690">
+<br />
 Со сите корисници кој сте ги додале како пријатели и го имаат прифатено вашето барање може да имате Chat комуникација.
  
  <br />
-<b>Chat/b>
+<b>Conversation/b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/conversation.jpg" width="400" height="690">
 
@@ -169,6 +170,7 @@
 <b>CloseBy Friend/b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/closeByFriends.jpg" width="400" height="690">
+ <br />
  Доколку сакате може да примате известувња за пријателите кој се наоѓаат околу вас односно кои се во опсег одреден од вас изразен во метри.
  
  
