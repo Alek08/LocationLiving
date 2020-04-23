@@ -60,9 +60,6 @@
 <b>Purple Marker</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/unavaliablecell.jpg" width="400" height="690">
-
-<br />
-<b>sssssssss Marker</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/unavaliablecell1.jpg" width="400" height="690">
 <br />
