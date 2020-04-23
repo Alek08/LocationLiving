@@ -44,9 +44,8 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick.jpg" width="400" height="690">
 <br />
 Доколку е Avaliable корисникот
-
-<b>Friend Click</b>
 <br />
+<b>Friend Click</b>
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick1.jpg" width="400" height="690">
 <br />
 Доколку е Busy корисникот
