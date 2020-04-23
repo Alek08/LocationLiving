@@ -90,7 +90,7 @@
 <br />
 <b>KadeSi request</b>
 <br />
-Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 2 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 1    
+Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; Корисник 2 &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 1    
 <br />
 <p float="left">
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/kadesi.jpg" width="266" height="460">
