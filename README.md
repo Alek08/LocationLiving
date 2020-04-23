@@ -91,11 +91,8 @@
 <b>KadeSi request</b>
 <br />
 <p float="left">
- Корисник1
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/kadesi.jpg" width="266" height="460">
- Корисник2
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/kadesireuest.jpg" width="266" height="460">
- Корисник1
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/Eve.jpg" width="266" height="460">
 </p>
 <br />
