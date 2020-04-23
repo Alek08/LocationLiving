@@ -61,7 +61,6 @@
 <b>Profile Side-Menu</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/myprofile.jpg" width="400" height="690">
-<br />
 Вашиот профил може да го видите во Profile каде ќе може да пополните некоја информација од понудените за вас и да прикчите или смените слика
 
 <br />
@@ -77,13 +76,88 @@
 <br />
 
 
+
+<br />
+<b>My Friend Profile</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/friend profile.jpg" width="400" height="690">
+<br />
+Може да го гледате профилот на вашите пријатели.
+
+
+
+
+
+<br />
+<b>KadeSi request</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/kadesi.jpg" width="400" height="690">
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/kadesireuest.jpg" width="400" height="690">
+<br />
+Може да го испратите KadeSi барање на вашите пријатели со што на нив ќе им стигне нотификација дека ја барате нивната локација со што доколку станат Avaliable на вас ќе ви стигне нотификација дека пријателот што го баравте со KadeSi барање е достапен и може да ја видите неговата најнова локација.
+
+
+<br />
+<b>Eve Notification</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/Eve.jpg" width="400" height="690">
+<br />
+
+
+
+
+
+
+
 <br />
 <b>Profile</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/myprofile.jpg" width="400" height="690">
 <br />
 
+<b>Add new friend</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/sendfollowreuest.jpg" width="400" height="690">
+Со Add new friend може да испратите барање за следење на некој корисник.Со внесување на username на корисникот.
+<br />
+
+<b>Follow requests</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/sendfollowreuest.jpg" width="400" height="690">
+Во Follow requests може да ги видите барањата за следење дополнително при секое испраќање на барање за следење корисникот добива Нотификација.
+
+<br />
+<b>Chat/b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/chat.jpg" width="400" height="690">
+Со сите корисници кој сте ги додале како пријатели и го имаат прифатено вашето барање може да имате Chat комуникација.
+ 
+ <br />
+<b>Chat/b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/conversation.jpg" width="400" height="690">
 
 
+ 
+ <br />
+<b>CloseBy Friend/b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/closeByFriends.jpg" width="400" height="690">
+ Доколку сакате може да примате известувња за пријателите кој се наоѓаат околу вас односно кои се во опсег одреден од вас изразен во метри.
+ 
+ 
+  <br />
+<b>CloseBy Friend Notifications/b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/notificationclosevyfriend.jpg" width="400" height="690">
+ 
+ 
+
+  <br />
+<b>CloseBy Friend Notifications/b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/notificationclosevyfriend.jpg" width="400" height="690">
+ 
+ 
 
 
