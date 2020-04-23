@@ -33,6 +33,26 @@
 <br />
 
 
+<b>Avaliable User</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/avaliable.jpg" width="400" height="690">
+
+Доколку корисникот е Avaliable рамката на сликата ќе има зелена боја.
+
+<b>Avaliable User</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/busycell.jpg" width="400" height="690">
+Доколку корисникот е Busy рамката на сликата ќе има црвена боја дополнително доколку се пронајде базната станица на која е поврзан корисникот ќе се појави црвен круг бидејќи неговата локација не е добиена од GPS провајдерот туку од базна станица и неговата локација ќе биде во рамките на црвениот круг. Ќе се појави и син маркер доколку последната локација добиена од GPS провајдерот е во опсегот на црвениот круг со тоа е поголема веројаноста корисникот да биде околу тој син маркер.
+<br />
+<b>Blue Marker</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/busycell1.jpg" width="400" height="690">
+
+
+
+
+
+
 <b>Cluster Click</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/clusterclick.jpg" width="400" height="690">
@@ -151,5 +171,12 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/notificationclosevyfriend.jpg" width="400" height="690">
  
  
+
+
+
+
+
+
+
 
 
