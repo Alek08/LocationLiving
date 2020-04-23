@@ -1,12 +1,8 @@
 # LocationLiving
- help you to stay connected with your family members and frineds, keeping an eye on them.
+може да ви помогнеме да останете поврзани со членовите на вашето семејство и со вашите пријатели.
+<br />
+ Секогаш можете да бидете свесни за локацијата на едни со други и лесно да комуницирате во една апликација. Секогаш ќе знаете кој и каде се наоѓа, а главната работа е дека само ќе ја делите вашата локација со оние на кои им верувате. Сè е безбедно.
  
- You can always be aware of the location of each other and easily communicate in one application.You will always know who and where is located, And the main thing is that you will only share your location with those you trust.Everything is safe.
-  
- Feautures:
- if a friend comes near you his you will immediately receive a notification
-  
-  
 <b>Sing Up</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/singup.jpg" width="400" height="690">
