@@ -29,6 +29,15 @@
 <br />
 
 
+<b>Navigation Side-Menu</b>
+<br />
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenu.jpg" width="400" height="690">
+
+<br />
+
+
+
+
 <b>Cluster Click</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/clusterclick.jpg" width="400" height="690">
