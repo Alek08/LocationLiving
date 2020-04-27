@@ -22,6 +22,21 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenunew.jpg" width="400" height="690">
 <br />
 
+
+
+
+<br />
+<b>Navigation Side-Menu</b>
+<br />
+<p float="left">
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenunew.jpg" width="400" height="690">
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenun1.jpg" width="266" height="460">
+ <img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenu2.jpg" width="266" height="460">
+</p>
+<br />
+
+
+
 <b>Main Screen</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/mainFragemnt.jpg" width="400" height="690">
