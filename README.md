@@ -191,16 +191,11 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/notificationclosevyfriend.jpg" width="400" height="690">
  
  
-  <br />
+
+ 
+ 
+<br />
 <b>Follow By Code</b>
-<br />
-<img src="https://github.com/Alek08/LocationLiving/blob/master/images/followvycode.jpg" width="400" height="690">
- <br />
- Може да се следи локација и со код
- 
- 
-<br />
-<b>Navigation Side-Menu</b>
 <br />
 <br />
 Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Корисник 2 &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 2    
@@ -211,6 +206,7 @@
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/followcode.jpg" width="266" height="460">
 </p>
 <br />
+ Може да се следи локација и со код
 
 
 
