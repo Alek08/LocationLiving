@@ -206,7 +206,7 @@
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/followcode.jpg" width="266" height="460">
 </p>
 <br />
- Може да се следи локација и со код
+ Може да се следи локација и со код на каде им била корисна и на доставувачите
 
 
 
