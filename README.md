@@ -20,7 +20,7 @@
 <b>Navigation Side-Menu</b>
 <br />
 <p float="left">
-<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenunew.jpg" width="400" height="690">
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenunew.jpg" width="266" height="460">
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenun1.jpg" width="266" height="460">
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenu2.jpg" width="266" height="460">
 </p>
