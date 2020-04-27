@@ -19,7 +19,7 @@
 
 <b>Navigation Side-Menu</b>
 <br />
-<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenu.jpg" width="400" height="690">
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/navmenunew.jpg" width="400" height="690">
 <br />
 
 <b>Main Screen</b>
@@ -158,7 +158,7 @@
 <br />
 <b>Follow requests</b>
 <br />
-<img src="https://github.com/Alek08/LocationLiving/blob/master/images/sendfollowreuest.jpg" width="400" height="690">
+<img src="https://github.com/Alek08/LocationLiving/blob/master/images/newfollowrequest.jpg" width="400" height="690">
 <br />
 Во Follow requests може да ги видите барањата за следење дополнително при секое испраќање на барање за следење корисникот добива Нотификација.
 
