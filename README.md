@@ -202,6 +202,9 @@
 <br />
 <b>Navigation Side-Menu</b>
 <br />
+<br />
+Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Корисник 2 &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 1    
+<br />
 <p float="left">
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/generatecode.jpg" width="266" height="460">
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/addcode.jpg" width="266" height="460">
