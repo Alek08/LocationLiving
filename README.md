@@ -209,7 +209,19 @@
  Може да се следи локација и со код  каде би им била корисна и на доставувачите
 
 
-
+Firebase Relatime Database
+Firebase Storage
+Firebase Authentication
+Firebase Cloud Messaging
+Maps SDK for Android
+Marker Clustering
+Google Maps Android Heatmap Utility
+Navigation Component
+Retrofit 
+Picasso 
+foreground service
+jobscheduler 
+broadcast receiver
 
 
 
