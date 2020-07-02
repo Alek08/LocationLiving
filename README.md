@@ -208,20 +208,20 @@
 <br />
  Може да се следи локација и со код  каде би им била корисна и на доставувачите
 
-
-Firebase Relatime Database
-Firebase Storage
-Firebase Authentication
-Firebase Cloud Messaging
-Maps SDK for Android
-Marker Clustering
+<br />
+Firebase Relatime Database<br />
+Firebase Storage<br />
+Firebase Authentication<br />
+Firebase Cloud Messaging<br />
+Maps SDK for Android<br />
+Marker Clustering<br />
 Google Maps Android Heatmap Utility
-Navigation Component
-Retrofit 
-Picasso 
-foreground service
-jobscheduler 
-broadcast receiver
+Navigation Component<br />
+Retrofit <br />
+Picasso <br />
+foreground service<br />
+jobscheduler <br />
+broadcast receiver<br />
 
 
 
