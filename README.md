@@ -145,6 +145,7 @@
 <br />
 
 <b>KadeSi request</b>
+<br />
 Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Корисник 2 &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 1    
 <br />
 <p float="left">
@@ -154,6 +155,7 @@
 </p>
 <br />
 Може да го испратите KadeSi барање на вашите пријатели со што на нив ќе им стигне нотификација дека ја барате нивната локација со што доколку станат Avaliable на вас ќе ви стигне нотификација дека пријателот што го баравте со KadeSi барање е достапен и може да ја видите неговата најнова локација.
+<br />
 <br />
 
 <b>Add new friend</b>
@@ -196,7 +198,6 @@
 
 <b>Follow By Code</b>
 <br />
-<br />
 Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Корисник 2 &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 2    
 <br />
 <p float="left">
@@ -213,6 +214,7 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/Screenshot_20200701-212819.jpg" width="266" height="460">
 <br />
 Heatmap опцијата овозможува додавање на слој во бои во зависност од густината односно популацијата  на маркерите, кога ќе се овозможи оваа опција маркерите се отстрануваат и корисникот може да го види слојот а доколку сака може повторно да ги види маркерите со повторно селектирање на оваа опција.
+<br />
 
 
 <br />
