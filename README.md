@@ -153,7 +153,6 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/kadesireuest.jpg" width="266" height="460">
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/Eve.jpg" width="266" height="460">
 </p>
-<br />
 Може да го испратите KadeSi барање на вашите пријатели со што на нив ќе им стигне нотификација дека ја барате нивната локација со што доколку станат Avaliable на вас ќе ви стигне нотификација дека пријателот што го баравте со KadeSi барање е достапен и може да ја видите неговата најнова локација.
 <br />
 <br />
