@@ -120,6 +120,7 @@
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/myprofile.jpg" width="400" height="690">
 Вашиот профил може да го видите во Profile каде ќе може да пополните некоја информација од понудените за вас и да прикчите или смените слика
 <br />
+<br />
 
 <b>My Friends Side-Menu</b>
 <br />
