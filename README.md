@@ -142,9 +142,9 @@
 <br />
 Може да го гледате профилот на вашите пријатели.
 <br />
+<br />
 
 <b>KadeSi request</b>
-<br />
 Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Корисник 2 &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 1    
 <br />
 <p float="left">
