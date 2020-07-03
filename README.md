@@ -51,7 +51,6 @@
 <b>Avaliable User</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/avaliable.jpg" width="400" height="690">
-
 Доколку корисникот е Avaliable рамката на сликата ќе има зелена боја.
 
 <b>Busy User</b>
@@ -93,6 +92,7 @@
 <b>Friend Click</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick.jpg" width="400" height="690">
+
 Доколку е Avaliable корисникот
 <br />
 
@@ -101,6 +101,7 @@
 <b>Friend Click</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick1.jpg" width="400" height="690">
+
 Доколку е Busy корисникот
 <br />
 
@@ -108,6 +109,7 @@
 <b>Friend Click</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick2.jpg" width="400" height="690">
+
 Доколку е Busy корисникот
 <br />
 
