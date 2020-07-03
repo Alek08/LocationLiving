@@ -217,6 +217,20 @@
 Heatmap опцијата овозможува додавање на слој во бои во зависност од густината односно популацијата  на маркерите, кога ќе се овозможи оваа опција маркерите се отстрануваат и корисникот може да го види слојот а доколку сака може повторно да ги види маркерите со повторно селектирање на оваа опција.
 
 
+<br />
+Firebase Relatime Database<br />
+Firebase Storage<br />
+Firebase Authentication<br />
+Firebase Cloud Messaging<br />
+Maps SDK for Android<br />
+Marker Clustering<br />
+Google Maps Android Heatmap Utility
+Navigation Component<br />
+Retrofit <br />
+Picasso <br />
+foreground service<br />
+jobscheduler <br />
+broadcast receiver<br />
 
 
 
