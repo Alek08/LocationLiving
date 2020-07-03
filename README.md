@@ -206,7 +206,7 @@
 </p>
  Може да се следи локација и со код на каде им била корисна и на доставувачите
 <br />
-
+<br />
 <b>Heatmap</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/Screenshot_20200701-212819.jpg" width="266" height="460">
