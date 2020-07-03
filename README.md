@@ -197,14 +197,13 @@
 
 <b>Follow By Code</b>
 <br />
-Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Корисник 2 &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 2    
 <br />
+Корисник 1 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; Корисник 2 &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Корисник 2    
 <p float="left">
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/generatecode.jpg" width="266" height="460">
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/addcode.jpg" width="266" height="460">
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/followcode.jpg" width="266" height="460">
 </p>
-<br />
  Може да се следи локација и со код на каде им била корисна и на доставувачите
 <br />
 
