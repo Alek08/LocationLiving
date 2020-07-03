@@ -51,6 +51,7 @@
 <b>Avaliable User</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/avaliable.jpg" width="400" height="690">
+<br />
 Доколку корисникот е Avaliable рамката на сликата ќе има зелена боја.
 
 <b>Busy User</b>
