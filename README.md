@@ -100,9 +100,9 @@
 <b>Friend Click</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick1.jpg" width="400" height="690">
+Доколку е Busy корисникот
 <br />
 
-Доколку е Busy корисникот
 <br />
 <b>Friend Click</b>
 <br />
