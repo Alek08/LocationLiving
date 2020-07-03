@@ -60,6 +60,7 @@
 <br />
 Доколку корисникот е Busy рамката на сликата ќе има црвена боја дополнително доколку се пронајде базната станица на која е поврзан корисникот ќе се појави црвен круг бидејќи неговата локација не е добиена од GPS провајдерот туку од базна станица и неговата локација ќе биде во рамките на црвениот круг. Ќе се појави и син маркер доколку последната локација добиена од GPS провајдерот е во опсегот на црвениот круг со тоа е поголема веројаноста корисникот да биде околу тој син маркер.
 <br />
+
 <b>Blue Marker</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/busycell1.jpg" width="400" height="690">
@@ -74,6 +75,7 @@
 <br />
 <b>Purple Marker</b>
 <br />
+
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/unavaliablecell.jpg" width="400" height="690">
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/unavaliablecell1.jpg" width="400" height="690">
@@ -98,6 +100,7 @@
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick1.jpg" width="400" height="690">
 <br />
+
 Доколку е Busy корисникот
 <br />
 <b>Friend Click</b>
