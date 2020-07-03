@@ -1,5 +1,5 @@
 # LocationLiving
-може да ви помогне да останете поврзани со членовите на вашето семејство и со вашите пријатели.
+може да ви помогнеме да останете поврзани со членовите на вашето семејство и со вашите пријатели.
 <br />
  Секогаш можете да бидете свесни за локацијата на едни со други и лесно да комуницирате во една апликација. Секогаш ќе знаете кој и каде се наоѓа, а главната работа е дека само ќе ја делите вашата локација со оние на кои им верувате. Сè е безбедно.
  
@@ -206,22 +206,10 @@
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/followcode.jpg" width="266" height="460">
 </p>
 <br />
- Може да се следи локација и со код  каде би им била корисна и на доставувачите
+ Може да се следи локација и со код на каде им била корисна и на доставувачите
 
-<br />
-Firebase Relatime Database<br />
-Firebase Storage<br />
-Firebase Authentication<br />
-Firebase Cloud Messaging<br />
-Maps SDK for Android<br />
-Marker Clustering<br />
-Google Maps Android Heatmap Utility
-Navigation Component<br />
-Retrofit <br />
-Picasso <br />
-foreground service<br />
-jobscheduler <br />
-broadcast receiver<br />
+
+
 
 
 
