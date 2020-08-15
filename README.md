@@ -221,7 +221,7 @@ Firebase Authentication<br />
 Firebase Cloud Messaging<br />
 Maps SDK for Android<br />
 Marker Clustering<br />
-Google Maps Android Heatmap Utility
+Google Maps Android Heatmap Utility<br />
 Navigation Component<br />
 Retrofit <br />
 Picasso <br />
