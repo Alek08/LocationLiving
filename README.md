@@ -2,9 +2,8 @@
 Google play Store<br />
 https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<br />
 <br />
-Геосоцијална андроид апликација која може да ви помогне да останете поврзани со членовите на вашето семејство и со вашите пријатели.
-Секогаш можете да бидете свесни за локацијата на едни со други и лесно да комуницирате во една апликација. Секогаш ќе знаете кој и каде се наоѓа, а главната работа е дека само ќе ја делите вашата локација со оние на кои им верувате. Се е безбедно.
- 
+A geosocial android app that can help you stay connected with your family members and your friends. You can always be aware of each other's location and communicate easily in one app. You will always know who and where they are, and the main thing is that you will only share your location with those you trust. Everything is safe.
+
 <b>Sing Up</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/singup.jpg" width="400" height="690">
@@ -41,26 +40,26 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/searchmain.jpg" width="400" height="690">
 <br />
-Можно е пребарување на пријателите.
+It is possible to search for friends.
 
 <b>Click on suggestion</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/searchmain1.jpg" width="400" height="690">
 <br />
- со селектирање на еден од нив ќе се доближите до пријателот.
+ by selecting one of them you will get closer to the friend.
 <br />
 
 <b>Avaliable User</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/avaliable.jpg" width="400" height="690">
 <br />
-Доколку корисникот е Avaliable рамката на сликата ќе има зелена боја.
+If the user is Avaliable, the image frame will have a green color.
 
 <b>Busy User</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/busycell.jpg" width="400" height="690">
 <br />
-Доколку корисникот е Busy рамката на сликата ќе има црвена боја дополнително доколку се пронајде базната станица на која е поврзан корисникот ќе се појави црвен круг бидејќи неговата локација не е добиена од GPS провајдерот туку од базна станица и неговата локација ќе биде во рамките на црвениот круг. Ќе се појави и син маркер доколку последната локација добиена од GPS провајдерот е во опсегот на црвениот круг со тоа е поголема веројаноста корисникот да биде околу тој син маркер.
+If the user is Busy, the frame of the image will have a red color, in addition, if the base station to which the user is connected is found, a red circle will appear because his location is not obtained from the GPS provider but from a base station and his location will be within the red circle . A blue marker will also appear if the last location received from the GPS provider is within the range of the red circle, making it more likely that the user is around that blue marker.
 <br />
 
 <b>Blue Marker</b>
@@ -73,7 +72,7 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/unavaliable.jpg" width="400" height="690">
 <br />
-Доколку корисникот е Unavaliable рамката на сликата ќе има сива боја дополнително ќе се појави и виолетов маркер доколку последната локација добиена од GPS провајдерот е во опсегот на сивиот круг со тоа е поголема веројаноста корисникот да биде околу тој виолетов маркер.
+If the user is Unavaliable, the frame of the image will be gray and a purple marker will also appear if the last location received by the GPS provider is within the range of the gray circle, so it is more likely that the user is around that purple marker.
 <br />
 
 <b>Purple Marker</b>
@@ -90,13 +89,13 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/clusterclick.jpg" width="400" height="690">
 <br />
-Доколку се кликне на кластерот од пријатели се покажуваат сите пријатели во тој кластер, со селектирање на еден од нив ќе се доближите до пријателот.
+If a cluster of friends is clicked, all the friends in that cluster are shown, selecting one of them will bring you closer to the friend.
 
 <b>Friend Click</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick.jpg" width="400" height="690">
 <br />
-Доколку е Avaliable корисникот
+If the user is Avaliable
 <br />
 
 
@@ -105,7 +104,7 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick1.jpg" width="400" height="690">
 
-Доколку е Busy корисникот
+If the user is Busy
 <br />
 
 <br />
@@ -113,14 +112,14 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friendclick2.jpg" width="400" height="690">
 
-Доколку е Busy корисникот
+If the user is Busy
 <br />
 
 <br />
 <b>Profile Side-Menu</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/myprofile.jpg" width="400" height="690">
-Вашиот профил може да го видите во Profile каде ќе може да пополните некоја информација од понудените за вас и да прикчите или смените слика
+You can see your profile in Profile, where you can fill in some of the information offered for you and attach or change a picture.
 <br />
 <br />
 
@@ -142,7 +141,7 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/friend profile.jpg" width="400" height="690">
 <br />
-Може да го гледате профилот на вашите пријатели.
+You can view your friends profile.
 <br />
 <br />
 
@@ -155,7 +154,7 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/kadesireuest.jpg" width="266" height="460">
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/Eve.jpg" width="266" height="460">
 </p>
-Може да го испратите KadeSi барање на вашите пријатели со што на нив ќе им стигне нотификација дека ја барате нивната локација со што доколку станат Avaliable на вас ќе ви стигне нотификација дека пријателот што го баравте со KadeSi барање е достапен и може да ја видите неговата најнова локација.
+You can send a KadeSi request to your friends which will notify them that you are looking for their location so if they become Avaliable you will receive a notification that the friend you have been looking for with a KadeSi request is available and you can see their latest location.
 <br />
 <br />
 
@@ -163,21 +162,21 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/sendfollowreuest.jpg" width="400" height="690">
 <br />
-Со Add new friend може да испратите барање за следење на некој корисник.Со внесување на username на корисникот.
+With Add new friend you can send a request to follow a user. By entering the username of the user.
 <br />
 
 <b>Follow requests</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/newfollowrequest.jpg" width="400" height="690">
 <br />
-Во Follow requests може да ги видите барањата за следење дополнително при секое испраќање на барање за следење корисникот добива Нотификација.
+In Follow requests, you can see follow-up requests, in addition, every time a follow-up request is sent, the user receives a Notification.
 <br />
 
 <b>Chat</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/chat.jpg" width="400" height="690">
 <br />
-Со сите корисници кој сте ги додале како пријатели и го имаат прифатено вашето барање може да имате Chat комуникација.
+You can have chat communication with all the users you have added as friends and have accepted your request.
  <br />
  
 <b>Conversation</b>
@@ -189,7 +188,7 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/closeByFriends.jpg" width="400" height="690">
  <br />
- Доколку сакате може да примате известувња за пријателите кој се наоѓаат околу вас односно кои се во опсег одреден од вас изразен во метри.
+If you want, you can receive notifications about friends who are around you, who are within a range specified by you expressed in meters.
   <br />
   
 <b>CloseBy Friend Notifications</b>
@@ -206,13 +205,13 @@ https://play.google.com/store/apps/details?id=com.alek.alek.myapplication&hl=en<
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/addcode.jpg" width="266" height="460">
  <img src="https://github.com/Alek08/LocationLiving/blob/master/images/followcode.jpg" width="266" height="460">
 </p>
- Може да се следи локација и со код на каде им била корисна и на доставувачите
+A location can also be tracked with a code where it has been useful for delivery people as well
 <br />
 <br />
 <b>Heatmap</b>
 <br />
 <img src="https://github.com/Alek08/LocationLiving/blob/master/images/Screenshot_20200701-212819.jpg" width="266" height="460">
-Heatmap опцијата овозможува додавање на слој во бои во зависност од густината односно популацијата  на маркерите, кога ќе се овозможи оваа опција маркерите се отстрануваат и корисникот може да го види слојот а доколку сака може повторно да ги види маркерите со повторно селектирање на оваа опција.
+The heatmap option allows adding a color layer depending on the density or population of the markers, when this option is enabled the markers are removed and the user can see the layer and if he wants he can see the markers again by selecting this option again.
 <br />
 
 
